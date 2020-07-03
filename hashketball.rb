@@ -90,7 +90,7 @@ def game_hash
   
                 
   
-  return game_hash
+  puts game_hash
   
   
 end
